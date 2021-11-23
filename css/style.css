@@ -226,6 +226,25 @@ footer p{
 	
 
 }
+@media screen and (max-width: 1334px){
+	audio{
+	position: fixed;
+	z-index: 0;
+	
+	}
+	.flex-mosaico{
+		display: block;
+	}
+	.item-1-mosaico{
+		padding-top: 80%;
+		width: 100%;
+}	
+	.item-2-mosaico{
+		width: 100%;
+		text-align: justify;
+
+}
+
 
 @media screen and (max-width: 768px){
 	audio{
