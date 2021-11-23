@@ -215,8 +215,8 @@ section.chamada h2{
 }
 
 .chamada input[type=submit]:focus{
-	width: 500px;
-	background-color: #323665;
+	cursor: pointer;
+	
 }
 
 footer p{
